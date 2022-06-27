@@ -1,0 +1,17 @@
+7
+A Parking
+B Airport
+C Hospital
+F University
+E Park
+G Terminal
+D Mall
+
+A D 28
+D G 99
+B C 25
+C G 24
+G F 18
+C F 22 
+F E 12
+D E 16
